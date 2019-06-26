@@ -1,0 +1,2 @@
+This is my first git testing text file.
+And today is 2019062i6.
